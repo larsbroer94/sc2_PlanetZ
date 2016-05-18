@@ -1,18 +1,37 @@
 ![Planet Z header](http://marek.online/wp-content/uploads/2015/09/helloworld1.gif "Planet Z header info")
-Planet Z
-======
-*A Starcraft 2 arcade game*
 
-Table of Contents
-=================
+#Table of Contents
+1. Introduction
+2. 
+3. 
+4. 
+5. 
+6. Ownership
 
-  * [intro](#intro)
-    * [Idea](#idea)
-    * [Features](#features)
-  * [Installation](#installation)
-  * [Uninstallation](#uninstallation)
-  * [Available plugins](#available-plugins)
-  * [Usage](#usage)
-  * 
-  
-#Intro
+
+#Introduction
+
+##Test
+gigjwekjgewg
+#Introduction
+
+##Test
+gigjwekjgewg
+#Introduction
+
+##Test
+gigjwekjgewg
+v
+#Introduction
+
+##Test
+gigjwekjgewg
+#Introduction
+
+##Test
+gigjwekjgewg
+v
+v#Introduction
+
+#bal
+gigjwekjgewg
