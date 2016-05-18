@@ -1,7 +1,7 @@
 ![Planet Z header](http://marek.online/wp-content/uploads/2015/09/helloworld1.gif "Planet Z header info")
 
 #Table of Contents
-1. Introduction
+1. [Introduction](/#Bal)
 2. 
 3. 
 4. 
